@@ -1,0 +1,18 @@
+{
+  "name": "stray",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeremiah Langner",
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.2.11",
+    "@webgpu/types": "^0.1.40"
+  }
+}
